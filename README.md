@@ -8,7 +8,7 @@
 
 🌱 Aprimorando meus conhecimentos em NEXTjs.
 
-📫 Entre em contato comigo no e-mail: brunomomoshiki@gmail.com
+📫 Entre em contato comigo no e-mail: levianas142@gmail.com
 
 <div align="start">
   <a href="https://github.com/DinDja">
