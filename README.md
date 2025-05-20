@@ -12,8 +12,8 @@
 
 <div align="start">
   <a href="https://github.com/DinDja">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinDja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" title="Estatísticas do Github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinDja&layout=compact&langs_count=7&theme=dracula" title="Linguagens mais utilizadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levianas14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" title="Estatísticas do Github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levianas14&layout=compact&langs_count=7&theme=dracula" title="Linguagens mais utilizadas"/>
 </div>
   
   <div style="display: inline_block"><br>
