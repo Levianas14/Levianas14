@@ -1,4 +1,4 @@
-👨‍ ‍Eric, tenho 20 anos.
+👨‍ ‍Eric, tenho 21 anos.
 
 ✈️ Sou de Salvador - BA.
 
